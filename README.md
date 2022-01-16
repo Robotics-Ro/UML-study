@@ -1,4 +1,11 @@
-# Welcome to GitHub
+# やむ得ずにプロジェットマネジャーになってみた！
+1. はじめに
+2. Prototype 
+![prototype](./images/prototype.pdf)
+3. 
+4. おわりに
+
+
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
