@@ -70,7 +70,7 @@
 仲間たちがあってこそ今回の作品が出来上がったと思います。今回のプロジェクトマネジメントが最高の結果だとは思いませんが最善を尽くしたものだと考えております。皆さんには個人の個性が反映された最善の
 プロジェクトマネジメントが出来上がるため私の今回の記事が役に立つように願っております。
 
-github Address:
+github Address:https://github.com/Madness-Ro/project-miraisouzouten-document
 
 Special Thanks
 HAL東京先端ロボット開発学科　担当　山口　直彦先生
