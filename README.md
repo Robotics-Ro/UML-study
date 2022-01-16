@@ -1,7 +1,7 @@
 # やむ得ずにプロジェットマネジャーになってみた！
 1. はじめに
 2. Prototype 
-![prototype](./images/prototype.pdf)
+![prototype](./images/prototype.png)
 3. 
 4. おわりに
 
