@@ -9,6 +9,11 @@
   margin: 50px auto;
 }
 
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+}
+
 p {
   display: block;
   width: 400px;
