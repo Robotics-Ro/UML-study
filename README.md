@@ -71,7 +71,7 @@
 プロジェクトマネジメントが出来上がるため私の今回の記事が役に立つように願っております。
 
 github Address:https://github.com/Madness-Ro/project-miraisouzouten-document
-
+![example](./images/QR-code.png)
 Special Thanks<br>
 HAL東京先端ロボット開発学科　担当　山口　直彦先生<br>
 韓国　SUNGAM電気　R＆D部署　担当　Choi Jae-Hyuk<br>
