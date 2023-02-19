@@ -30,17 +30,17 @@ RealSense examples have been designed and tested with OpenCV 3.4
 https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html
 
 Required Packages
-GCC 4.4.x or later
-CMake 2.8.7 or higher
-Git
-GTK+2.x or higher, including headers (libgtk2.0-dev)
-pkg-config
-Python 2.6 or later and Numpy 1.5 or later with developer packages (python-dev, python-numpy)
-ffmpeg or libav development packages: libavcodec-dev, libavformat-dev, libswscale-dev
-[optional] libtbb2 libtbb-dev
-[optional] libdc1394 2.x
-[optional] libjpeg-dev, libpng-dev, libtiff-dev, libjasper-dev, libdc1394-22-dev
-[optional] CUDA Toolkit 6.5 or higher
+GCC 4.4.x or later<br>
+CMake 2.8.7 or higher<br>
+Git<br>
+GTK+2.x or higher, including headers (libgtk2.0-dev)<br>
+pkg-config<br>
+Python 2.6 or later and Numpy 1.5 or later with developer packages (python-dev, python-numpy)<br>
+ffmpeg or libav development packages: libavcodec-dev, libavformat-dev, libswscale-dev<br>
+[optional] libtbb2 libtbb-dev<br>
+[optional] libdc1394 2.x<br>
+[optional] libjpeg-dev, libpng-dev, libtiff-dev, libjasper-dev, libdc1394-22-dev<br>
+[optional] CUDA Toolkit 6.5 or higher<br>
 
 
 CMake
