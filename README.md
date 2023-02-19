@@ -29,6 +29,20 @@ OpenCV for C++
 RealSense examples have been designed and tested with OpenCV 3.4
 https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html
 
+Required Packages
+GCC 4.4.x or later
+CMake 2.8.7 or higher
+Git
+GTK+2.x or higher, including headers (libgtk2.0-dev)
+pkg-config
+Python 2.6 or later and Numpy 1.5 or later with developer packages (python-dev, python-numpy)
+ffmpeg or libav development packages: libavcodec-dev, libavformat-dev, libswscale-dev
+[optional] libtbb2 libtbb-dev
+[optional] libdc1394 2.x
+[optional] libjpeg-dev, libpng-dev, libtiff-dev, libjasper-dev, libdc1394-22-dev
+[optional] CUDA Toolkit 6.5 or higher
+
+
 CMake
 CMake란 여러 환경(window , linux 등)에 맞는 build process를 작성한 것으로, CMakeLists.txt에 기술된 내용을 바탕으로 각 확경에 맞는 Makefile을 생성해 주는 빌드 프로그램이다.
 
