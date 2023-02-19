@@ -1,5 +1,5 @@
 # OpenCV LiDAR C++ 시작해보기
-<div style="text-align: right">건국대학교 일반대학원 전기기계 및 전력전자 노태형</div><br>
+<div style="text-align: right">건국대학교 일반대학원 전기기계 및 전력전자 석사과정 노태형</div><br>
 
 ## 서론
 일본에서 학부졸업 전 중고시장에서 어렵게구한 LiDAR였지만 연구실에 들어와 이리치이고 저리치이는 사이 한구석에서 썪고 있었습니다.
