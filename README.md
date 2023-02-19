@@ -24,8 +24,8 @@ SDK는 깊이와 칼라 스트리밍, 내부와 외부의 교정 정보를 제�
 과 스트리밍 세션의 record와 playback(코드 있음) 빌트인 서포트를 제공한다.
 
 
-/*![mandara](./images/mandara.png#center)<br>
-**図1．曼荼羅図** */
+/*![mandara](./images/mandara.png#center)<br> */
+**図1．曼荼羅図** 
 ## ii.LiDAR를 사용하기에 앞서 환경구축해야할 것들
 ### C++
 -------------
