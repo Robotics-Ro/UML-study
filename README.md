@@ -28,13 +28,14 @@ SDK는 깊이와 칼라 스트리밍, 내부와 외부의 교정 정보를 제�
 ## ii.LiDAR를 사용하기에 앞서 환경구축해야할 것들
 ### - Realsense SDK를 C++로 사용하기 위해서 무엇을 준비해야하는가? 
 -------------
+OpenCV for C++
+RealSense examples have been designed and tested with OpenCV 3.4
+https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html
+
 CMake
 CMake란 여러 환경(window , linux 등)에 맞는 build process를 작성한 것으로, CMakeLists.txt에 기술된 내용을 바탕으로 각 확경에 맞는 Makefile을 생성해 주는 빌드 프로그램이다.
 
 CMake를 통해 Makefile을 만들게 되면, 추가적인 파일이 추가되지 않는 한 Makefile을 수정하지 않고, 자동으로 생성해준다는 장점이 있지만, 단순히 Makefile을 생성해 주는 것이기 때문에 Make를 추가로 해야한다.
-
-OpenCV for C++
-RealSense examples have been designed and tested with OpenCV 3.4
 
 Vcpkg
 Vcpkg는 Windows, Linux 및 MacOS에서 C 및 C++ 라이브러리를 관리하는 데 도움을 주는 라이브러리입니다.
