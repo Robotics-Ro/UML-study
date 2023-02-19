@@ -34,6 +34,7 @@ CMake란 여러 환경(window , linux 등)에 맞는 build process를 작성한 
 CMake를 통해 Makefile을 만들게 되면, 추가적인 파일이 추가되지 않는 한 Makefile을 수정하지 않고, 자동으로 생성해준다는 장점이 있지만, 단순히 Makefile을 생성해 주는 것이기 때문에 Make를 추가로 해야한다.
 
 OpenCV for C++
+RealSense examples have been designed and tested with OpenCV 3.4
 
 Vcpkg
 Vcpkg는 Windows, Linux 및 MacOS에서 C 및 C++ 라이브러리를 관리하는 데 도움을 주는 라이브러리입니다.
