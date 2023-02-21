@@ -33,6 +33,8 @@ UML은 모델링을 위한 언어다. 모델이란 어떠한 대상을 글이나
 <img align="center" src="./images/component.svg"/>
 
 #### 은행 ATM 유스케이스 다이어그램
+--------------------------------------
+<img align="center" src="./images/ATM_usecase.svg"/>
 
 ## 종장
 
