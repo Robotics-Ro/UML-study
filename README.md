@@ -22,11 +22,9 @@ UML은 모델링을 위한 언어다. 모델이란 어떠한 대상을 글이나
 단, UML은 시스템개발방법론(개발의 수단이나 방법론등)을 포함하지 않는다. 때문에 실제 시스템개발에서는 UML과는 별도로 개발방법론을 준비해야한다.
 
 ## ii. Usecase Diagram
-### - Realsense SDK를 C++로 사용하기 위해서 무엇을 준비해야하는가? 
+### 유스케이스 다이어그램의 례 
 -------------
-OpenCV for C++
-RealSense examples have been designed and tested with OpenCV 3.4
-https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html
+유스케이스 다이어그램은, 실선은**관련**된 것을 칭하고, 액터와 유스케이스의 관계(실행하는 - 실행되는)을 표시한다. 또한, 시스템의 범위를 명시하기위해, 시스템경계(주제)로 시스템 내부의 요소(유스케이스)를 둘러쌀 수가 있다. 이 시스템의 경계는 주제를 나타내는 이름 (시스템명등)을 만들어, 그 시스템의 기능을 나탄는 것이 가능하다.
 
 Required Packages
 GCC 4.4.x or later<br>
