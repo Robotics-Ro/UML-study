@@ -24,34 +24,8 @@ UML은 모델링을 위한 언어다. 모델이란 어떠한 대상을 글이나
 ## ii. Usecase Diagram
 ### 유스케이스 다이어그램의 례 
 -------------
-유스케이스 다이어그램은, 실선은**관련**된 것을 칭하고, 액터와 유스케이스의 관계(실행하는 - 실행되는)을 표시한다. 또한, 시스템의 범위를 명시하기위해, 시스템경계(주제)로 시스템 내부의 요소(유스케이스)를 둘러쌀 수가 있다. 이 시스템의 경계는 주제를 나타내는 이름 (시스템명등)을 만들어, 그 시스템의 기능을 나탄는 것이 가능하다.
-
-Required Packages
-GCC 4.4.x or later<br>
-CMake 2.8.7 or higher<br>
-Git<br>
-GTK+2.x or higher, including headers (libgtk2.0-dev)<br>
-pkg-config<br>
-Python 2.6 or later and Numpy 1.5 or later with developer packages (python-dev, python-numpy)<br>
-ffmpeg or libav development packages: libavcodec-dev, libavformat-dev, libswscale-dev<br>
-[optional] libtbb2 libtbb-dev<br>
-[optional] libdc1394 2.x<br>
-[optional] libjpeg-dev, libpng-dev, libtiff-dev, libjasper-dev, libdc1394-22-dev<br>
-[optional] CUDA Toolkit 6.5 or higher<br>
-
-~~~
-[compiler] sudo apt-get install build-essential
-[required] sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
-[optional] sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
-~~~
-
-CMake
-CMake란 여러 환경(window , linux 등)에 맞는 build process를 작성한 것으로, CMakeLists.txt에 기술된 내용을 바탕으로 각 확경에 맞는 Makefile을 생성해 주는 빌드 프로그램이다.
-
-CMake를 통해 Makefile을 만들게 되면, 추가적인 파일이 추가되지 않는 한 Makefile을 수정하지 않고, 자동으로 생성해준다는 장점이 있지만, 단순히 Makefile을 생성해 주는 것이기 때문에 Make를 추가로 해야한다.
-
-Vcpkg
-Vcpkg는 Windows, Linux 및 MacOS에서 C 및 C++ 라이브러리를 관리하는 데 도움을 주는 라이브러리입니다.
+![example](./images/ex_usecase.svg)
+유스케이스 다이어그램은, 실선은**관련**된 것을 칭하고, 액터와 유스케이스의 관계(실행하는 - 실행되는)을 표시한다. 또한, 시스템의 범위를 명시하기위해, 시스템경계(주제)로 시스템 내부의 요소(유스케이스)를 둘러쌀 수가 있다. 이 시스템의 경계는 주제를 나타내는 이름 (시스템명등)을 만들어, 그 시스템의 기능을 나타내는 것이 가능하다.
 
 
 ## 종장
