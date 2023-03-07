@@ -43,7 +43,7 @@
  <img align="center" src="../images/usecase_extend.drawio.drawio.svg"/>
 ### 추가
  확장은 조건이 있을 경우, 조건을 기재할 수 있으며, 조건은 확장을 표시하는 점선 도중에 동그라미를 그려, 거기에 노트를 붙여 기재한다.
-
+ <img align="center" src="../images/usecase_plus.drawio.svg"/>
 ### 은행 ATM 유스케이스 다이어그램
 --------------------------------------
 <img align="center" src="../images/ATM_usecase.drawio.svg"/>
