@@ -21,8 +21,9 @@ UML은 오브젝트지향기술의 표준화를 진행하기 위해 OMG(Object M
 UML은 모델링을 위한 언어다. 모델이란 어떠한 대상을 글이나 그림으로 표현하는 것으로, 시스템 개발에 있어 시스템 그 자체가 대상이 된다.
 단, UML은 시스템개발방법론(개발의 수단이나 방법론등)을 포함하지 않는다. 때문에 실제 시스템개발에서는 UML과는 별도로 개발방법론을 준비해야한다.
 
-## ii. Usecase Diagram
-### 유스케이스 다이어그램의 례 
+## ii. 각 종 다이어그램
+
+[### 유스케이스 다이어그램] (https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Usecase.md) 
 -------------
 <img align="center" src="./images/ex_usecase.svg"/>
 
