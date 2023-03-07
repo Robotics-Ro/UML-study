@@ -1,7 +1,7 @@
 ## Activity Diagram
 ### 액티비티 다이어그램 
 -------------
-<img align="center" src="../images/ex_usecase.svg"/>
+<img align="center" src="../images/Activity_Diagram.png"/>
 
 **액티비티 다이어그램**(activity diagram)이란, 처리의 실행수순을 나타내는 다이어그램이다.<br>
 이 다이어그램은, 시스템 개발의 상류공정으로 비지니스 프로세스를 분석하여 나타내거나, <br>
