@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T14:43:15.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.6" etag="edd5PZ4erf7jCLJwjI5i" type="github"><diagram name="페이지-1" id="TXu0dTrp-f3FQ0_nh59h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-13T14:48:28.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mIcfvxKvo2s-DlCoy51h" version="21.0.6" type="github">
+  <diagram name="페이지-1" id="TXu0dTrp-f3FQ0_nh59h">
+    <mxGraphModel dx="2954" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="620" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-3" value="흐름 오브젝트" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=1;fontSize=19;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ssb89QIanYYbUSDTYiYH-5" target="Ssb89QIanYYbUSDTYiYH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-5" value="서류 작성" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-6" value="서류 승인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="495" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ssb89QIanYYbUSDTYiYH-7" target="Ssb89QIanYYbUSDTYiYH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-7" value="서류" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-11" value="" style="endArrow=open;dashed=1;html=1;rounded=0;startArrow=none;startFill=0;endFill=0;" edge="1" parent="1" source="Ssb89QIanYYbUSDTYiYH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="390" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-12" value="서류 작성" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="Ssb89QIanYYbUSDTYiYH-13" target="Ssb89QIanYYbUSDTYiYH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="737.5" width="20" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-14" value="서류 승인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="730" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="737.5" width="20" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ssb89QIanYYbUSDTYiYH-17" value="핀&lt;br&gt;(출력 핀과 입력 핀)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=1;fontSize=13;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="360" y="810" width="150" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
