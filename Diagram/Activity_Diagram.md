@@ -17,9 +17,18 @@
 ### 액티비티
 **액티비티**는, 일련의 액션이 정리되어진 처리수순을 나타낸다. <br>
 
-액티비티에 파라미터가 있을 경우, 액티비티명 아래에 기재한다. 사전조건이나 사후조건이 있을 경우<br>
+액티비티에 파라미터가 있을 경우, 액티비티명 아래에 기재한다. 사전조건이나 사후조건이 있을 경우 <br>
 <<precondition>>, <<postcondition>> 을 기재한다.
-
+ 
 <img align="center" src="../images/Activity.drawio.svg"/>
-
+ 
+### 액션
+**액션**은 액티비티를 편성하는 처리의 단위다. <br>
+ 액션은 액티비티와 다르게 내부에 다른 액션을 넣을 수가 없다. <br>
+ 액션에 사전조건, 사후조건이 있을 때엔, 대상이 되는 액션과 엮인 노트에
+ 키워드 <<localPrecondition>>, << localPostcondition>>을 추가하여 기재한다. <br>
 <img align="center" src="../images/Action.drawio.svg"/>
+ 
+### 개시 노드
+ **개시 노드**는, 일련의 액티비티가 처리를 개시하는 지점을 나타낸다.
+ <img align="center" src="../images/Start NOde.draw.svg">>
