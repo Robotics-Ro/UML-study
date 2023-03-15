@@ -14,4 +14,9 @@
 -------------------------------
 <img align="center" src="../images/AD_Components.drawio.svg"/>
 
+### 액티비티
+**액티비티**는, 일련의 액션이 정리되어진 처리수순을 나타낸다 
+
+<img align="center" src="../images/Activity.drawio.svg"/>
+
 <img align="center" src="../images/Action.drawio.svg"/>
