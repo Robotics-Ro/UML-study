@@ -26,7 +26,7 @@
 **액션**은 액티비티를 편성하는 처리의 단위다. <br>
  액션은 액티비티와 다르게 내부에 다른 액션을 넣을 수가 없다. <br>
  액션에 사전조건, 사후조건이 있을 때엔, 대상이 되는 액션과 엮인 노트에
- 키워드 `<<precondition>>` , `<<postcondition>>`을 추가하여 기재한다. <br>
+ 키워드 `<<precondition>>` , `<<postcondition>>`을 추가하여 기재한다. <br><br>
 <img align="center" src="../images/Action.drawio.svg"/> <br>
  
 ### 개시 노드
