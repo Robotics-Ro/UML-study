@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.parameter {
+  font-weight: bold;
+  color: blue;
+}
+</style>
+</head>
+<body>
+
 ## Activity Diagram
 ### 액티비티 다이어그램 
 -------------
@@ -32,3 +44,7 @@
 ### 개시 노드
  **개시 노드**는, 일련의 액티비티가 처리를 개시하는 지점을 나타낸다.
  <img align="center" src="../images/Start_Node.drawio.svg">
+ 
+ 
+</body>
+</html>
