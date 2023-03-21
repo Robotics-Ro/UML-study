@@ -58,7 +58,11 @@
 
 <img align="center" src="../images/Connector.drawio.svg"><br>
 
-### 
+### 디시젼 노드와 머지 노드
+**디시젼 노드**를 쓰면, 조건에 의해 흐름 하나를 여러개로 분기할 수 있다. 역으로 **머지 노드**는 복수의 노드를 하나로 만드는 역할을 한다. <br>
+디시젼 노드의 경우 분할할 때 각각의 흐름 컨트롤에, 조건식을 대괄호에 넣어 분기하는 조건을 지정한다. 이 조건을 **가드 조건**이라 한다. <br>
+
+<img align="center" src="../images/Decision and Merge Node.drawio.svg"><br>
 
 
  
