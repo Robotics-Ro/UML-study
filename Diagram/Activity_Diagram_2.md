@@ -39,3 +39,7 @@
  모드에 `stream`이 지정된 경우, 입력치에 대해 처리가 한번에 실행된다. 처리에 출력치가 있을 경우, 입력 컬렉션과 같은 구성으로 컬렉션을 구축한다. <br>
 <img align="center" src="../images/Extend Area.drawio.svg"><br>
 
+### 인터럽트 가능 액티비티 영역
+ **인터럽트 가능 액티비티 영역**은, 그 영역 내 특정 조건이 발생한 경우, 수신이벤트 액션이 상황 발생을 탐지하여, 통상 흐름과 별도의 처리를 한다. <br>
+<img align="center" src="../images/Interrupt Able.drawio.svg"><br>
+
