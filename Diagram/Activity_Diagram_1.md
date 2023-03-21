@@ -70,3 +70,13 @@
 역으로 **조인트 노드**는, 비동기에 평행처리된 노드를, 동기하여 하나의 흐름으로 만드는 것을 나타낸다.<br>
 
 <img align="center" src="../images/Fork And Joint Node.drawio.svg"><br>
+
+### 액티비티 파티션
+**액티비티 파티션**은, 액션을 실행하는 주체나 각 페이즈에 액티비티 다이어그램 요소를 그룹화한 것이다.<br>
+
+<img align="center" src="../images/Sub Activity Partition.drawio.svg"><br>
+
+ 파티션에 소속된 액션은, 파티션을 실제 표기하는 것 뿐만 아니라 액션에 소속명을 부가하여 나타낼 수도 있다.<br>
+ 또한, 액션이 모델 외부 영역에서 일어났을 경우엔, 그 액션에 키워드 `<<external>>`을 부가하여 나타낼 수도 있다.<br><br>
+<img align="center" src="../images/Partition Name to Plus Action.drawio.svg"><br>
+
