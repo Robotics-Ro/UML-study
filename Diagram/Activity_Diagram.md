@@ -80,7 +80,16 @@
  또한, 액션이 모델 외부 영역에서 일어났을 경우엔, 그 액션에 키워드 `<<external>>`을 부가하여 나타낼 수도 있다.<br><br>
 <img align="center" src="../images/Partition Name to Plus Action.drawio.svg"><br>
 
-## 열외 핸들러
-**열외 핸들러**는, 액티비티내에 열외가 발생한 경우, 그에 대응하기위한 처리를 기재한다.<br>
+### 열외 핸들러
+**열외 핸들러**는, 액티비티내에 열외가 발생한 경우, 대응 처리를 기재한다.<br><br>
 <img align="center" src="../images/Excluded_Handler.drawio.svg"><br>
+
+### 수신 이벤트 액션
+**수신 이벤트 액션**은, 특정 이벤트가 일어나기를 기다리는 액션이다. <br>
+기다리는 이벤트가 시간에 관한 이벤트(ex. 매주 일요일 오전 0시에 발생등)가 있을 경우, 강제하기위해, 모래시계 아이콘을 기재한다.<br>
+<img align="center" src="../images/Recieve_Event_Action.drawio.svg"><br>
+
+### 송신 시그널 액션
+**송신 시그널 액션**은, 다른 액티비티에서 받은 정보로부터, 시그널을 송신하는 액션이다. <br>
+<img align="center" src="../images/Send Signal Action.drawio.svg"><br>
  
