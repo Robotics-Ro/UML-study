@@ -77,8 +77,10 @@
 <img align="center" src="../images/Sub Activity Partition.drawio.svg"><br>
 
  파티션에 소속된 액션은, 파티션을 실제 표기하는 것 뿐만 아니라 액션에 소속명을 부가하여 나타낼 수도 있다.<br>
- 또한, 액션이 모델 외부 영역에서 일어났을 경우엔, 그 액션에 키워드 `<<external>>``을 부가하여 나타낼 수도 있다.<br><br>
+ 또한, 액션이 모델 외부 영역에서 일어났을 경우엔, 그 액션에 키워드 `<<external>>`을 부가하여 나타낼 수도 있다.<br><br>
 <img align="center" src="../images/Partition Name to Plus Action.drawio.svg"><br>
 
-
+## 열외 핸들러
+**열외 핸들러**는, 액티비티내에 열외가 발생한 경우, 그에 대응하기위한 처리를 기재한다.<br>
+<img align="center" src="../images/Partition Name to Plus Action.drawio.svg"><br>
  
