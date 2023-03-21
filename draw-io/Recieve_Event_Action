@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T12:31:52.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.2" etag="e8DWzw2y0BguJKlsREbT" type="github"><diagram name="페이지-1" id="4FdtjZPxsmbCA6Tse55U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T12:36:08.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eupWUNN-fLMPqRX4sURi" version="21.0.2" type="github">
+  <diagram name="페이지-1" id="4FdtjZPxsmbCA6Tse55U">
+    <mxGraphModel dx="1807" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="150" width="710" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="6hbHGrpjy6iCPisV1RSN-14" target="6hbHGrpjy6iCPisV1RSN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-14" value="입금 캔슬" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="208" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="6hbHGrpjy6iCPisV1RSN-15" target="6hbHGrpjy6iCPisV1RSN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 수신 이벤트명" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=25.97;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="275" y="200" width="140" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-16" value="캔슬 처리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="208" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="6hbHGrpjy6iCPisV1RSN-17" target="6hbHGrpjy6iCPisV1RSN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-17" value="명세지 인쇄" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="298" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6hbHGrpjy6iCPisV1RSN-18" value="" style="shape=collate;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="293" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
