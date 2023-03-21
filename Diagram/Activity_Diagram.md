@@ -18,7 +18,7 @@
 **액티비티**는, 일련의 액션이 정리되어진 처리수순을 나타낸다. <br>
 
 액티비티에 파라미터가 있을 경우, 액티비티명 아래에 기재한다. 사전조건이나 사후조건이 있을 경우 <br>
-<span class="parameter"> <<precondition>> </span> , <span class="parameter"> <<postcondition>> </span> 을 기재한다.
+'<<precondition>>' , '<<postcondition>>' 을 기재한다.
  
 <img align="center" src="../images/Activity.drawio.svg"/>
  
