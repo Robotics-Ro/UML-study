@@ -82,5 +82,5 @@
 
 ## 열외 핸들러
 **열외 핸들러**는, 액티비티내에 열외가 발생한 경우, 그에 대응하기위한 처리를 기재한다.<br>
-<img align="center" src="../images/Partition Name to Plus Action.drawio.svg"><br>
+<img align="center" src="../images/Excluded_Handler.drawio.svg"><br>
  
