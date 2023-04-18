@@ -22,10 +22,10 @@ UML은 모델링을 위한 언어다. 모델이란 어떠한 대상을 글이나
 
 ## ii. 각 종 다이어그램
 
-### [유스케이스 다이어그램](https://github.com/Robotics-Ro/UML-study/blob/sub/Diagram/Usecase.md) 
+### [유스케이스 다이어그램](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Usecase.md) 
 
-### [액티비티 다이어그램-1](https://github.com/Robotics-Ro/UML-study/blob/sub/Diagram/Activity_Diagram_1.md)
+### [액티비티 다이어그램-1](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Activity_Diagram_1.md)
 
-### [액티비티 다이어그램-2](https://github.com/Robotics-Ro/UML-study/blob/sub/Diagram/Activity_Diagram_2.md)
+### [액티비티 다이어그램-2](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Activity_Diagram_2.md)
 
-### [스테이트 머신 다이어그램-1](https://github.com/Robotics-Ro/UML-study/blob/sub/Diagram/State_Machine_Diagram_1.md)
+### [스테이트 머신 다이어그램-1](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/State_Machine_Diagram_1.md)
