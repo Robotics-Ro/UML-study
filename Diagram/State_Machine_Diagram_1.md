@@ -1,7 +1,7 @@
 ## State Machine Diagram
 ### 스테이트 머신 다이어그램
 -------------
-<img align="center" src="../images/Activity_Diagram.png"/>
+<img align="center" src="../images/State_Machine_Diagram/SMD_Components.drawio.svg"/>
 
 **스테이트 머신 다이어그램**(state machine diagram)은, 시스템을 편성하는 오브젝트의 상태표이와,<br>
 상태표이에 따른 움직임을 표현할 수가 있다. 시스템은, 이용되는 곳이나 관계되는 외부 시스템 상태변화에 적응하기위해,<br>
