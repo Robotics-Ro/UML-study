@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T18:36:15.229Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8rcG8oqdGyy-vlqSCDbl" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T18:47:09.049Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AI4nf-1WWYp1GSIQ2JNp" version="21.2.9" type="github">
   <diagram name="페이지-1" id="eoEDRq7XYWeLBbP7Ej_5">
     <mxGraphModel dx="2880" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MJJqRFJquFgwABD_Znpz-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="230" width="680" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="MJJqRFJquFgwABD_Znpz-18" value="재생중" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="200" height="160" as="geometry" />
         </mxCell>
