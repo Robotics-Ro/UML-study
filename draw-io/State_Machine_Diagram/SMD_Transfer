@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T18:56:56.501Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="gLuXTLU9yYVh-6cR7edN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T19:00:19.863Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="L0UESaoZFwKdXVUfPRI2" version="21.2.9" type="github">
   <diagram name="페이지-1" id="jL0rLPGYE6sb0dGvCSjd">
-    <mxGraphModel>
+    <mxGraphModel dx="2880" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2oGOjOdgPIj8drc_uHaK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="220" width="680" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2oGOjOdgPIj8drc_uHaK-6" value="곡 종료 [최종곡]/정지" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=13;" edge="1" parent="1" source="2oGOjOdgPIj8drc_uHaK-4" target="2oGOjOdgPIj8drc_uHaK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="375" />
+              <mxPoint x="340" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2oGOjOdgPIj8drc_uHaK-4" value="재생중" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2oGOjOdgPIj8drc_uHaK-5" value="정지중" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2oGOjOdgPIj8drc_uHaK-7" value="곡 종료 [도중곡]/ 다음 곡으로 이동" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=open;endFill=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=13;" edge="1" parent="1" source="2oGOjOdgPIj8drc_uHaK-4" target="2oGOjOdgPIj8drc_uHaK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="345" />
+              <mxPoint x="130" y="270" />
+              <mxPoint x="210" y="270" />
+              <mxPoint x="210" y="330" />
+              <mxPoint x="200" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
