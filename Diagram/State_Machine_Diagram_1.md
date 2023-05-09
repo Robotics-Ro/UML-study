@@ -43,3 +43,9 @@
 
   <img align="center" src="../images/State_Machine_Diagram/SMD_Inner_Activity.drawio.svg">
 
+## 전이
+ **전이**, 오브젝트가 특정 이벤트에 반응하여, 어떠한 상태로부터 다른 상태로 변하는 것을 말한다. <br>
+  전이의 화살표는, 트리거명, 가드 조건, 이펙트명을 [트리거명［가드 조건］/이펙트명] 같은 형식으로 기재하는 것이 가능하다. (트리거는 이 전이와 관련된 이벤트를 가르킨다.) <br>
+  가드 조건이 기재되어있을 경우엔, 조건에 만족하는 경우만 전이한다. 
+  
+  <img align="center" src="../images/State_Machine_Diagram/SMD_Transfer.drawio.png">
