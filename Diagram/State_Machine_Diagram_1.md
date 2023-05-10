@@ -58,4 +58,12 @@
  [컴포짓 상태]는, 넣어지는 인자의 상태전이 영역을 포함한 상태를 말한다. <br>
  컴포짓 상태 내부는 생략가능하다. <br>
    <img align="center" src="../images/State_Machine_Diagram/SMD_Composite_State.drawio.svg">
+   
+## 입장점
+ **입장점**은 스테이트 머신 다이어그램에 입장하는 기점을 말한다. 스테이트 머신 다이어그램은 복수의 입장점을 가질 수가 있다.
+ 
+## 퇴장점
+ **퇴장점**은 스테이트 머신 다이어그램에서 퇴장하는 기점을 말한다. 퇴장점 또한 복수의 퇴장점을 가질 수가 있다.
+
+ <img align="center" src="../images/State_Machine_Diagram/SMD_SelectPoint.drawio.svg">
   
