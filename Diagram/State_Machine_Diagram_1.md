@@ -69,4 +69,10 @@
  같이 [기동중] 상태에서 전이하는 곳도 복수 있으며, 평범한 전이인가 예외적인 전이인가가  명기되어있다.
  <img align="center" src="../images/State_Machine_Diagram/SMD_RunningSM.drawio.svg">
  
+## 서브머신 상태
+ 서브머신 상태는, 어떤 스테이트 머신 다이어그램 부터 다른 스테이트 머신 다이어그램을 부르는 와중에 사용한다. <br>
+ 참조하려는 곳의 스테이트 머신 다이어그램을 **서브머신**, 참조하는 곳의 상태를 **서브머신상태**라고 부른다. <br>
+ 서브머신 상태라는 것을 나타내기 위해서는 [상태명: 스테이트 머신명] 같이 기재하면 된다. <br>
+ <img align="center" src="../images/State_Machine_Diagram/SMD_SubMachineState.drawio.svg">
+ 
   
