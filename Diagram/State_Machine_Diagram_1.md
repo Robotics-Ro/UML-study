@@ -73,6 +73,8 @@
  서브머신 상태는, 어떤 스테이트 머신 다이어그램 부터 다른 스테이트 머신 다이어그램을 부르는 와중에 사용한다. <br>
  참조하려는 곳의 스테이트 머신 다이어그램을 **서브머신**, 참조하는 곳의 상태를 **서브머신상태**라고 부른다. <br>
  서브머신 상태라는 것을 나타내기 위해서는 [상태명: 스테이트 머신명] 같이 기재하면 된다. <br>
- <img align="center" src="../images/State_Machine_Diagram/SMD_SubMachineState.drawio.svg">
+ <img align="center" src="../images/State_Machine_Diagram/SMD_SubMachineState.drawio.svg"> <br>
+ 
+ <img align="center" src="../images/State_Machine_Diagram/SMD_SubMachine.drawio.svg">
  
   
