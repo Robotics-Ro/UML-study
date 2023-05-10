@@ -65,5 +65,5 @@
 ## 퇴장점
  **퇴장점**은 스테이트 머신 다이어그램에서 퇴장하는 기점을 말한다. 퇴장점 또한 복수의 퇴장점을 가질 수가 있다.
 
- <img align="center" src="../images/State_Machine_Diagram/SMD_SelectPoint.drawio.svg">
+ <img align="center" src="../images/State_Machine_Diagram/SMD_RunningSM.drawio.svg">
   
