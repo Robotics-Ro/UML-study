@@ -57,5 +57,5 @@
 ## 컴포짓 상태
  [컴포짓 상태]는, 넣어지는 인자의 상태전이 영역을 포함한 상태를 말한다. <br>
  컴포짓 상태 내부는 생략가능하다. <br>
-   <img align="center" src="../images/State_Machine_Diagram/SMD_Composite_State.svg">
+   <img align="center" src="../images/State_Machine_Diagram/SMD_Composite_State.drawio.svg">
   
