@@ -77,4 +77,7 @@
  
  <img align="center" src="../images/State_Machine_Diagram/SMD_SubMachine.drawio.svg">
  
+## 직교 상태
+ **직교상태**란, 컴포짓상태내에 
+ 
   
