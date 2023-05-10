@@ -52,5 +52,5 @@
   
   또한, 전이의 트리거나 이펙트는, 문자열로 기재하는것 뿐만아니라, 시그널이나 액션의 요소를 기재하는 것으로, 수신시그널은 다른 오브젝트로 부터 조작을 기동시키는것(트리거)를 나타낸다.<br>
   
-  <img align="center" src="../images/State_Machine_Diagram/SMD_Signal.drawio.svg">
+  <img align="center" src="../images/State_Machine_Diagram/SMD_Siganl.drawio.svg">
   
