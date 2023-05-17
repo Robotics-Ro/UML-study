@@ -19,5 +19,7 @@
  <img align="center" src="../images/State_Machine_Diagram/SMD_SelectPoint.drawio.svg">
  
  ## 프로토콜 스테이트머신
- 
+ **프로토콜 스테이트머신**은, 클래스나 컴포넨트의 동작수순을 정의하는 스테이트 머신 다이어그램이다. 표기자체는 일반 스테이트 <br>
+ 머신 다이어그램과 거의 가티잠ㄴ, 보다 실장에 밀착한 상태전이를 표현할 수 있다. <br>
+  프로토콜 스테이트 머신의 전이는, 그 클래스나 컴포넨트가 가진 조작의 기동에 명확하게 대응한다. <br>
  <img align="center" src="../images/State_Machine_Diagram/SMD_Protocol_State Machine.drawio.svg">
