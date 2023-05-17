@@ -17,3 +17,7 @@
  연결점은, 상태간의 가드조건이 전부 만족할 경우 전이한다.
  
  <img align="center" src="../images/State_Machine_Diagram/SMD_SelectPoint.drawio.svg">
+ 
+ ## 프로토콜 스테이트머신
+ 
+ <img align="center" src="../images/State_Machine_Diagram/SMD_Protocol_State Machine.drawio.svg">
