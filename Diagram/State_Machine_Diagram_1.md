@@ -83,3 +83,9 @@
  
   <img align="center" src="../images/State_Machine_Diagram/SMD_직교.drawio.svg">
   
+## 포크와조인
+ **포크**직교상태의 개시, **조인**은 직교상태의 종료를 얘기한다. 포크와조인은, 직교상태내부의 각 영역에 기재하는 <br> 
+ 개시상태와 종료상태를 생략하는 경우 사용합니다.
+ 
+  <img align="center" src="../images/State_Machine_Diagram/SMD_ForkandJoin.drawio.svg">
+  
