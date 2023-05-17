@@ -78,6 +78,8 @@
  <img align="center" src="../images/State_Machine_Diagram/SMD_SubMachine.drawio.svg">
  
 ## 직교 상태
- **직교상태**란, 컴포짓상태내에 
+ **직교상태**란, 컴포짓상태내 복수의 상태전이영역이 존재하는 경우를 얘기한다. 직교 상태에서 다른 상태로 전이할 경우, <br>
+ 모든 영역에서 상태전이가 종료될 필요가 있다. <br>
  
+  <img align="center" src="../images/State_Machine_Diagram/SMD_직교.drawio.svg">
   
