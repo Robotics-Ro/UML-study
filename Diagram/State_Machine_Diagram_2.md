@@ -16,4 +16,4 @@
  **선택점**은, 연결점과 같이 복수의 전이를 연결하거나, 분리시킬 때 사용한다. 연결점과의 차이는, 가드 조건의 타이밍이다.<br>
  연결점은, 상태간의 가드조건이 전부 만족할 경우 전이한다.
  
- <img align="center" src="../images/State_Machine_Diagram/SMD_Transfer.drawio.png">
+ <img align="center" src="../images/State_Machine_Diagram/SMD_SelectPoint.drawio.svg">
