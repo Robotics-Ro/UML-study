@@ -5,8 +5,9 @@
   컴포짓 상태가 또 하나의 컴포짓 상태를 포함할 경우, 액티브한 서브상태를 복수의 단계에 걸쳐 기억하는 경우가 있다. <br>
  이 경우, 이력상태지시자의 H에 아스타리스크` * ` 딥히스토리로 표현한다.
  
- 
- 
-  <img align="center" src="../images/State_Machine_Diagram/이력상태지시자.drawio.svg">
+ <img align="center" src="../images/State_Machine_Diagram/이력상태지시자.drawio.svg">
   
-  딥히스토리로 표현한다.
+ ## 연결점
+ **연결점**은, 복수의 전이를 연결하거나, 분리할 때 사용한다. 연결점을 사용함으로 복수의 전이를 하나로 정리하여, 타임라인을 심플하게 기재할 수 있다.
+ 
+  <img align="center" src="../images/State_Machine_Diagram/SMD_ConnectPoint.drawio.svg">
