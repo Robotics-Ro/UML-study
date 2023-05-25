@@ -1,13 +1,13 @@
 ## ii. Usecase Diagram
 ### 유스케이스 다이어그램 
 -------------
-<img align="center" src="../images/ex_usecase.svg"/>
+<img align="center" src="../images/Usecase_Diagram/ex_usecase.svg"/>
 
 유스케이스 다이어그램은, 실선은**관련**된 것을 칭하고, 액터와 유스케이스의 관계(실행하는 - 실행되는)을 표시한다. 또한, 시스템의 범위를 명시하기위해, 시스템경계(주제)로 시스템 내부의 요소(유스케이스)를 둘러쌀 수가 있다. 이 시스템의 경계는 주제를 나타내는 이름 (시스템명등)을 만들어, 그 시스템의 기능을 나타내는 것이 가능하다.
 
 #### 유스케이스의 구성요소
 -------------------------------
-<img align="center" src="../images/component.svg"/>
+<img align="center" src="../images/Usecase_Diagram/component.svg"/>
 
 ## 유스케이스
 유스케이스란, 액터가 보는 시스템의 기능이다.
@@ -22,32 +22,32 @@
 ### 관련
  **관련**은, 액터와 유스케이스의 관계를 나타낸다. 액터와 유스케이스를 관련지을 때, 그 액터가 유스케이스를 실행하거나, <br>
  유스케이스로부터 반응을 얻을 수 있다.<br>
-<img align="center" src="../images/usecase_related.svg"/>
+<img align="center" src="../images/Usecase_Diagram/usecase_related.svg"/>
  
 ### 범화
  **범화**를 쓰면, 액터끼리나 유스케이스끼리 공통부분을 추상화(일반화)할 수가 있습니다. 이것으로, 다이어그램을 심플하게 그릴 수 있다.
   예를들어, [일반직]과[관리직]이란 액터가 있을 경우, 사원으로써의 역활은 같기에, [사원]이라는 액터를 일반화할 수가 있다.
- <img align="center" src="../images/usecase_generalization.drawio.svg"/>
+ <img align="center" src="../images/Usecase_Diagram/usecase_generalization.drawio.svg"/>
  
 ### 포함
  **포함**은 유스케이스의 다른 유스케이스를 포함할 수가 있다. 포함을 쓰면, 공통된기능 (조작순서) 를 표현한다.
  예를들면, [입금한다]란 유스케이스와, [인출한다]라는 유스케이스에, [금액을 지정한다]라는 유스케이스가 포함되었을 경우, 다음과 같이 그릴 수가 있다.
  포함은, 포함하는 유스케이스로부터 포함되는 유스케이스의 점선의 화살촉을 향해, 키워드 <<include>>을 추가한다.
- <img align="center" src="../images/usecase_include.drawio.svg"/>
+ <img align="center" src="../images/Usecase_Diagram/usecase_include.drawio.svg"/>
 
 ### 확장
 **확장**은, 이미 존재하는 유스케이스를, 다른 유스케이스를, 다른 유스케이스의 의해 확장할 경우 사용한다. 예를들면, [예금을 인출한다.]란 유스케이스를 실행 중에 임의의 조작으로부터<br>예금자의 선택으로 고액지폐의 일부를 환전할 때, [현금을 인출한다]란 유스케이스의 대하여, [일부환전한다]란 유스케이스의 의해 확장이 된다.<br>
  확장은 , 초안이되는 유스케이스에 대하여, **확장점**이라는 특정 시점에 이행이 됩니다. 이 례에는, 유스케이스 절차 중 하나인 [금액을 입력]할 때의 환전을 할까 말까의 분기점이 있으므로 [금액을입력] 부분의 확장이 된다. <br>
  실제로 확장을 행하는 타이밍으론, 시스템이 가동 중에 여러 기능등이 추가 되었을 때, 초안이 되었던 유스케이스에 기능을 추가할 때 사용할 수 있다.
  따라서 확장된 유스케이스와 초안이 된 유스케이스는 하나의 유스케이스로 봐도 된다.
- <img align="center" src="../images/usecase_extend.drawio.drawio.svg"/>
+ <img align="center" src="../images/Usecase_Diagram/usecase_extend.drawio.drawio.svg"/>
 ### 추가
  확장은 조건이 있을 경우, 조건을 기재할 수 있으며, 조건은 확장을 표시하는 <br>
  점선 도중에 동그라미를 그린 후 점선으로 노트를 추가하여 기재한다.<br>
- <img align="center" src="../images/usecase_plus.drawio.svg"/>
+ <img align="center" src="../images/Usecase_Diagram/usecase_plus.drawio.svg"/>
 ### 은행 ATM 유스케이스 다이어그램
 --------------------------------------
-<img align="center" src="../images/ATM_usecase.drawio.svg"/>
+<img align="center" src="../images/Usecase_Diagram/ATM_usecase.drawio.svg"/>
 
 ## 종장
 
