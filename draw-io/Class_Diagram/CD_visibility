@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T09:32:25.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.5" etag="NpQ1IZoFV8JeHC4KjA95" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T09:38:35.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="o4WsMSWf0RFMx_2Ixh2P" version="21.3.5" type="github">
   <diagram name="Page-1" id="f20nG_z6mUJ6H1ivkaW8">
-    <mxGraphModel>
+    <mxGraphModel dx="1808" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="375td7AlLtXeIW2Dg6L_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="680" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-21" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=90;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="310" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-6" value="클래스 A" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140.00000000000003" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-7" value="- 속성 A&lt;br&gt;# 속성 B" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="375td7AlLtXeIW2Dg6L_-6">
+          <mxGeometry y="26" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-8" value="- 조작 A ()&lt;br&gt;+ 조작 B ()" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="375td7AlLtXeIW2Dg6L_-6">
+          <mxGeometry y="64" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-22" value="Package A" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="93" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.017;entryY=0.684;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;endSize=12;" edge="1" parent="1" source="375td7AlLtXeIW2Dg6L_-23" target="375td7AlLtXeIW2Dg6L_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-23" value="클래스B" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-24" value="클래스C" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="375td7AlLtXeIW2Dg6L_-27" value="클래스D" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="165.5" width="100" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
