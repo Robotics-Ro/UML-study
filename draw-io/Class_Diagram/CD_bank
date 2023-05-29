@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T08:49:50.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.5" etag="eDguQ_wM9VUZ3nZ-rsli" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T09:06:45.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="x3AyHAt7yjJ7_XcxxbDr" version="21.3.5" type="github">
   <diagram name="Page-1" id="TBFu2rVQhK-_WWaHFHdK">
-    <mxGraphModel>
+    <mxGraphModel dx="861" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="60" width="673" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-16" value="ATM 화면" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39.40999999999998" y="99.27000000000002" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="HXOEz6RE5QTY0TCwAsu4-16" source="HXOEz6RE5QTY0TCwAsu4-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="183.93486967941828" y="53.1208186287716" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-17" value="+ 메뉴를 선택한다()&lt;br&gt;+ 수량을 입력한다()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HXOEz6RE5QTY0TCwAsu4-16">
+          <mxGeometry y="26" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HXOEz6RE5QTY0TCwAsu4-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.7692542442909" y="152.30769230769232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-68" value="예금계좌" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100.00000000000003" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-69" value="- 계좌의 종류&lt;br&gt;- 잔고" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HXOEz6RE5QTY0TCwAsu4-68">
+          <mxGeometry y="26" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-70" value="+ 예금을 맡긴다.&lt;br&gt;+ 예금을 찾는다." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HXOEz6RE5QTY0TCwAsu4-68">
+          <mxGeometry y="64" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.48;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;endSize=10;" edge="1" parent="1" source="HXOEz6RE5QTY0TCwAsu4-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="338" y="204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="242" />
+              <mxPoint x="339" y="242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-79" value="적금계좌" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.48;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;endSize=10;" edge="1" parent="1" source="HXOEz6RE5QTY0TCwAsu4-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="338" y="203" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="242" />
+              <mxPoint x="339" y="242" />
+              <mxPoint x="339" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-81" value="보통예금계좌" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-85" value="거래" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100.00000000000003" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-86" value="- 거래일시&lt;br&gt;- 거래종목&lt;br&gt;- 거래수량" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HXOEz6RE5QTY0TCwAsu4-85">
+          <mxGeometry y="26" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.007;entryY=0.707;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamondThin;endFill=1;endSize=20;" edge="1" parent="1" source="HXOEz6RE5QTY0TCwAsu4-86" target="HXOEz6RE5QTY0TCwAsu4-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-90" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=top;sketch=0;rotation=-180;labelPosition=center;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="223" y="142" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-92" value="계좌관리" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="203" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-93" value="{ordered}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-94" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="383" y="153" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HXOEz6RE5QTY0TCwAsu4-95" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="509" y="157" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
