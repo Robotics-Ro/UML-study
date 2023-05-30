@@ -17,7 +17,7 @@
  
 ### 은행 클래스 다이어그램
 --------------------------------------
-<img align="center" src="../images/Class_Diagram/CD_bank_drawio.png"/>
+<img align="center" src="../images/Class_Diagram/CD_bank.drawio.png"/>
  
 ### 클래스 다이어그램의 구성요소
 --------------------------------------
