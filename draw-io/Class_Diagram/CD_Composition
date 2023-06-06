@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T16:40:24.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.5" etag="cR-RxsMrK5E3VhuDOioJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T16:41:04.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="M6Uy3ttCpdTEFn_Z3VDH" version="21.3.5" type="github">
   <diagram name="Page-1" id="HAoaVFuBN6wmLirpcYLX">
-    <mxGraphModel>
+    <mxGraphModel dx="1234" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gXaMcJMnRAxQvwdsdNof-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="716" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="gXaMcJMnRAxQvwdsdNof-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;endSize=19;" edge="1" parent="1" source="gXaMcJMnRAxQvwdsdNof-3" target="gXaMcJMnRAxQvwdsdNof-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXaMcJMnRAxQvwdsdNof-3" value="총무부" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="389.5" width="77.85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gXaMcJMnRAxQvwdsdNof-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;endSize=19;" edge="1" parent="1" source="gXaMcJMnRAxQvwdsdNof-5" target="gXaMcJMnRAxQvwdsdNof-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXaMcJMnRAxQvwdsdNof-5" value="개발부" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="389.5" width="77.85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gXaMcJMnRAxQvwdsdNof-6" value="회사" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="275.5" width="60" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
