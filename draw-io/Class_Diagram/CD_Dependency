@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T16:47:10.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.5" etag="w_3E2EtdUhttx1Au5LXD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T16:49:58.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="So_UABhZ8Ig7DF3gA99l" version="21.3.5" type="github">
   <diagram name="Page-1" id="ByZwJO3c9nLkk4M0HK4I">
-    <mxGraphModel>
+    <mxGraphModel dx="1234" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="120" width="716" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-13" value="클라이언트" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190.00000000000003" width="130" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-14" value="+ 유틸리티를 쓴다()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HHNyh0pPdv9kCWfvIVJe-13">
+          <mxGeometry y="26" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="HHNyh0pPdv9kCWfvIVJe-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-19" value="의존" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="345" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-24" value="유틸리티" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190.00000000000003" width="130" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-25" value="편리한동작()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HHNyh0pPdv9kCWfvIVJe-24">
+          <mxGeometry y="26" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HHNyh0pPdv9kCWfvIVJe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="HHNyh0pPdv9kCWfvIVJe-14" target="HHNyh0pPdv9kCWfvIVJe-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
