@@ -51,7 +51,5 @@
 
 ## 종장
 
-github Address:[https://github.com/Madness-Ro/project-miraisouzouten-document](https://github.com/Robotics-Ro/OpenCV-C--LiDAR)
-![example](./images/QR-code.png)
 Special Thanks<br>
 ROS 국비교육 LiDAR 헤딩 팀
