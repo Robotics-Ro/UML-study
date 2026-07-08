@@ -1,35 +1,37 @@
-# UML 개요
-<div style="text-align: right">건국대학교 일반대학원 전기기계 및 전력전자 석사과정 노태형</div><br>
+# UML 학습 정리
 
-## 서론
-일본에서 배웠던 UML을 가지고 소프트웨어 아키텍처 설계의 중요성을 알리기위해 이번 글을 적어봅니다.
+<div style="text-align: right">건국대학교 일반대학원 전기기계 및 전력전자 석사과정 노태형</div>
 
-목차
-- 서론
-- 1. UML 이란
-- 2. 각 종 다이어그램 소개
-## i. UML 이란
-----------------------
-1998년 등장한 UML은, 지금은 기술자로써 습득하지 않으면 안돼는 필수 설계기술이 되었다. 
-현재, UML은 2.0으로 메이저 버전업을 한 뒤 2.1이 되어 컴포넌트나 엠베디드 시스템에 대응하고 있다.
-또한 UML이 ISO 표준이 됨으로 명실상부한 세계기준의 설계표기가 되었다.
+## 소개
 
-UML이란, Unified Modeling Language(통일모델링언어)의 약자로, 시스템의 분석, 설계 실장등을 원만히 진행하기위해 작성된 [모델]의 표기법을 정의한다.
-UML은 오브젝트지향기술의 표준화를 진행하기 위해 OMG(Object Management Group)에서 기준이 책정되었다.
+이 저장소는 UML(Unified Modeling Language)의 기본 개념과 주요 다이어그램을 정리한 학습 자료입니다. 일본에서 학습한 UML 내용을 바탕으로, 소프트웨어 아키텍처 설계에서 UML이 어떤 역할을 하는지 이해하기 쉽게 설명하는 것을 목표로 합니다.
 
-UML은 모델링을 위한 언어다. 모델이란 어떠한 대상을 글이나 그림으로 표현하는 것으로, 시스템 개발에 있어 시스템 그 자체가 대상이 된다.
-단, UML은 시스템개발방법론(개발의 수단이나 방법론등)을 포함하지 않는다. 때문에 실제 시스템개발에서는 UML과는 별도로 개발방법론을 준비해야한다.
+UML은 시스템을 분석하고 설계할 때 구조와 동작을 시각적으로 표현하기 위한 표준 모델링 언어입니다. 시스템의 요구사항, 기능, 객체 구조, 처리 흐름, 상태 변화 등을 다이어그램으로 표현함으로써 개발자와 이해관계자가 같은 기준으로 시스템을 이해할 수 있게 돕습니다.
 
-## ii. 각 종 다이어그램
+## UML이란
 
-### [유스케이스 다이어그램](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Usecase.md) 
+UML은 `Unified Modeling Language`의 약자로, 시스템 분석과 설계 과정에서 사용하는 모델의 표기법을 정의한 언어입니다. 객체지향 기술의 표준화를 위해 OMG(Object Management Group)에서 제정했으며, 현재는 ISO 표준으로도 채택되어 널리 사용되고 있습니다.
 
-### [액티비티 다이어그램-1](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Activity_Diagram_1.md)
+UML은 개발 방법론 자체가 아니라 모델링을 위한 표기 체계입니다. 따라서 실제 시스템 개발에서는 UML과 별도로 프로젝트 성격에 맞는 개발 방법론과 프로세스를 함께 준비해야 합니다.
 
-### [액티비티 다이어그램-2](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Activity_Diagram_2.md)
+## 문서 구성
 
-### [스테이트 머신 다이어그램-1](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/State_Machine_Diagram_1.md)
+- [유스케이스 다이어그램](Diagram/Usecase.md)
+- [액티비티 다이어그램 1](Diagram/Activity_Diagram_1.md)
+- [액티비티 다이어그램 2](Diagram/Activity_Diagram_2.md)
+- [스테이트 머신 다이어그램 1](Diagram/State_Machine_Diagram_1.md)
+- [스테이트 머신 다이어그램 2](Diagram/State_Machine_Diagram_2.md)
+- [클래스 다이어그램](Diagram/Class_Diagram_1.md)
 
-### [스테이트 머신 다이어그램-2](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/State_Machine_Diagram_2.md)
+## 다이어그램별 핵심
 
-### [클래스 다이어그램-1](https://github.com/Robotics-Ro/UML-study/blob/writing/Diagram/Class_Diagram_1.md)
+| 다이어그램 | 설명 |
+| --- | --- |
+| 유스케이스 다이어그램 | 사용자나 외부 시스템이 시스템과 상호작용하는 기능 범위를 표현합니다. |
+| 액티비티 다이어그램 | 업무 절차나 프로그램 처리 흐름을 순서와 분기로 표현합니다. |
+| 스테이트 머신 다이어그램 | 특정 객체가 이벤트와 조건에 따라 상태를 바꾸는 과정을 표현합니다. |
+| 클래스 다이어그램 | 클래스, 속성, 조작, 관계를 통해 시스템의 정적인 구조를 표현합니다. |
+
+## 참고
+
+이 문서는 UML의 전체 사양을 모두 다루기보다, 실무와 학습에서 자주 접하는 개념을 중심으로 정리했습니다. 각 문서에는 예시 이미지가 포함되어 있으므로 설명과 함께 다이어그램을 비교해 보며 읽는 것을 권장합니다.
