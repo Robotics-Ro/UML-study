@@ -1,6 +1,6 @@
 # UML 학습 정리
 
-<div style="text-align: right">건국대학교 일반대학원 전기기계 및 전력전자 석사과정 노태형</div>
+<div style="text-align: right">연구원 노태형</div>
 
 ## 소개
 
